@@ -81,7 +81,8 @@ Persistência de dados com SQLite
 Modularização de código e boas práticas de organização
 
 ## 📸 Capturas de Tela
-'''Inserir'''
+![image](https://github.com/user-attachments/assets/1bdf4a23-674d-4eb7-a00d-9dbd38f3fb60)
+
 
 ## 👨‍💻 Autores
 Nome: Guilherme de Araújo Nunes, Larissa Gabriel dos Santos e Gabriel Alves Campos
