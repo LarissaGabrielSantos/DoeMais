@@ -82,6 +82,10 @@ Modularização de código e boas práticas de organização
 
 ## 📸 Capturas de Tela
 ![image](https://github.com/user-attachments/assets/1bdf4a23-674d-4eb7-a00d-9dbd38f3fb60)
+![image](https://github.com/user-attachments/assets/1698b6a8-1f3c-434b-88f3-f3c56f9783c0)
+![image](https://github.com/user-attachments/assets/ca01681e-1898-4af1-8348-b6a3f47c1711)
+
+
 
 
 ## 👨‍💻 Autores
