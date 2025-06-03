@@ -1,4 +1,3 @@
-# paginas/formulario.py
 import tkinter as tk
 from tkinter import messagebox
 from bd.banco import conectar
@@ -9,7 +8,7 @@ def criar_formulario(pai):
     frame.pack(expand=True, fill="both")
 
     tamanho_fonte_emoji = 35
-    label_pombas = tk.Label(frame, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#466064") # ou bg="#173438" se quiser um fundo diferente
+    label_pombas = tk.Label(frame, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#466064")
     label_pombas.pack(pady=(10, 5))
 
     tk.Label(frame, text="Faça uma doação", font=("Helvetica", 18, "bold"), bg="#466064", fg="white").pack(pady=10)
@@ -60,7 +59,7 @@ def criar_formulario(pai):
     tk.Button(frame, text="Doar", command=doar).pack(pady=10)
 
     tamanho_fonte_emoji = 35
-    label_pombas = tk.Label(frame, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#466064") # ou bg="#173438" se quiser um fundo diferente
+    label_pombas = tk.Label(frame, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#466064") 
     label_pombas.pack(pady=(10, 5))
 
     return frame 

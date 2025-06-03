@@ -10,9 +10,7 @@ def criar_pagina_login(pai, trocar_tela, usuario_logado):
     conteudo.pack(expand=True)
 
     tamanho_fonte_emoji = 35
-# Modifique o atributo 'text' para incluir três emojis de pomba
     label_pombas = tk.Label(conteudo, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#173438")
-# O pady=(10, 5) continuará aplicando o espaçamento vertical ao Label que agora contém as três pombas
     label_pombas.pack(pady=(10, 5))
 
     tk.Label(conteudo, text="Faça seu login", font=("Arial", 22), bg="#173438", fg="white").pack(pady=20)
