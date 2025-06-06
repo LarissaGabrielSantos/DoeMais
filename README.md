@@ -65,7 +65,7 @@ DoeMais-main/
 
 
 ## 🔐 Login
-O sistema utiliza uma verificação básica de login (sem senha por padrão, mas o código permite implementar autenticação com mais segurança, se necessário).
+O sistema utiliza uma verificação básica de login, apenas com usuário e senha sem verificações mais detalhadas.
 
 ## 🧠 Lógica do Sistema
 A execução inicia por main.py, que chama a tela de login.
