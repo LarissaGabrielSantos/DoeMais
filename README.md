@@ -20,7 +20,7 @@
 
 ## 🖥️ Tecnologias Utilizadas
 
-- **Python 3.13+**
+- **Python 3.13.3**
 - **Tkinter** — Interface gráfica
 - **SQLite** — Banco de dados leve e local
 
@@ -30,15 +30,21 @@
 
 DoeMais-main/
 │
-├── main.py # Ponto de entrada da aplicação
-├── login.py # Tela de login
-├── principal.py # Tela principal com menus
-├── banco.py # Gerenciamento do banco de dados
-├── doacoes.db # Arquivo do banco SQLite
-├── paginas/
-│ ├── formulario.py # Formulário de cadastro de doações
-│ └── doacoes.py # Tela de visualização das doações
-└── pycache/ # Cache gerado automaticamente
+├── main.py                 # Ponto de entrada da aplicação
+├── doacoes.db              # Arquivo do banco SQLite
+├── log_atividades.txt      # Arquivo de log das atividades
+│
+├── bd/                    # Módulos com funcionalidades específicas
+│   ├──  banco.py                # Gerenciamento do banco de dados
+
+├── paginas/                    # Módulos com funcionalidades específicas
+│   ├── formulario.py           # Formulário de cadastro de doações
+│   └── doacoes.py              # Tela de visualização das doações
+├   └──login.py                 # Tela de login
+├   └──principal.py             # Tela principal com menus
+│
+
+
 
 
 ---
@@ -81,7 +87,12 @@ Persistência de dados com SQLite
 Modularização de código e boas práticas de organização
 
 ## 📸 Capturas de Tela
-'''Inserir'''
+![image](https://github.com/user-attachments/assets/596a5f4a-264a-4cf2-afca-6336f30730af)
+![image](https://github.com/user-attachments/assets/29585fc0-b629-4c72-8eb4-a831d486712e)
+![image](https://github.com/user-attachments/assets/8fabd95e-1afe-45ee-9c28-14569ef2f9fb)
+![image](https://github.com/user-attachments/assets/9802daea-cb90-4a9a-826a-ae6f45ec08c5)
+
+
 
 ## 👨‍💻 Autores
 Nome: Guilherme de Araújo Nunes, Larissa Gabriel dos Santos e Gabriel Alves Campos
