@@ -52,13 +52,16 @@ DoeMais-main/
 ## ▶️ Como Executar
 
 1. **Pré-requisitos:**
-   - Python 3.11 instalado no sistema.
+   - Python 3.13.3 instalado no sistema.
 
 2. **Clone ou extraia o projeto:**
    ```bash
    git clone https://github.com/onunis/DoeMais.git
    # ou
    unzip DoeMais-main.zip
+
+3. **Abra a pasta e abra com Visual Studio Code ou outra IDE**
+4. **Dentro do Visual Studio Code, acesse a main do projeto e no canto superior direito, clique em "Executar Arquivo do Python"**
 
 
 ## 🔐 Login
