@@ -20,7 +20,7 @@
 
 ## 🖥️ Tecnologias Utilizadas
 
-- **Python 3.11+**
+- **Python 3.13+**
 - **Tkinter** — Interface gráfica
 - **SQLite** — Banco de dados leve e local
 
