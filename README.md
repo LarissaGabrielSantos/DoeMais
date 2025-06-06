@@ -15,6 +15,7 @@
 - Página principal com navegação entre seções.
 - Armazenamento local das informações em um banco de dados SQLite (`doacoes.db`).
 - Organização de código em módulos e reutilização de componentes.
+- Relatório de adição de usuário, exclusão, edição, login e logout.
 
 ---
 
@@ -75,6 +76,8 @@ Após o login, o usuário é redirecionado à principal.py, onde há navegação
 formulario.py – onde são cadastradas novas doações.
 
 doacoes.py – onde é possível consultar as doações já registradas.
+
+relatorio.py - onde é possível consultar adição de usuário, exclusão, edição, login e logout.
 
 O módulo banco.py centraliza a lógica de acesso e manipulação do banco de dados SQLite.
 
