@@ -1,0 +1,48 @@
+2025-06-05 10:31:57 | Quem: ADM | Ação: Exclusão | O quê: Doação ID: 4
+2025-06-05 10:39:45 | Quem: ADM | Ação: Edição | O quê: Doação ID: 6
+2025-06-05 10:39:54 | Quem: ADM | Ação: Exclusão | O quê: Doação ID: 5
+2025-06-05 23:00:11 | Quem: Franciele | Ação: Adição | O quê: Item: Botas, ONG: ONG Mundo Melhor
+2025-06-05 23:01:09 | Quem: ADM | Ação: Exclusão | O quê: Doação ID: 8
+2025-06-05 23:03:34 | Quem: Mariana | Ação: Cadastro | O quê: Usuário criado
+2025-06-05 23:03:42 | Quem: Mariana | Ação: Login | O quê: Login realizado
+2025-06-05 23:04:08 | Quem: Mariana | Ação: Adição | O quê: Item: Chinelos, ONG: ONG Esperança
+2025-06-05 23:09:24 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:09:37 | Quem: adm | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:09:47 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:09:52 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:10:07 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:10:24 | Quem: adm | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:12:15 | Quem: Fran | Ação: Login | O quê: Login realizado
+2025-06-05 23:12:52 | Quem: Fran | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:15:33 | Quem: Mariana | Ação: Login | O quê: Login realizado
+2025-06-05 23:15:58 | Quem: Mariana | Ação: Login | O quê: Login realizado
+2025-06-05 23:16:48 | Quem: Mariana | Ação: Adição | O quê: Item: Lenços, ONG: ONG Cuidar
+2025-06-05 23:23:27 | Quem: Mariana | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:23:35 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:23:41 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:23:59 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-05 23:24:27 | Quem: adm | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:24:38 | Quem: Fran | Ação: Login | O quê: Login realizado
+2025-06-05 23:24:44 | Quem: Fran | Ação: Logout | O quê: Logout realizado
+2025-06-05 23:24:45 | Quem: Fran | Ação: Login | O quê: Login realizado
+2025-06-06 09:00:07 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:00:16 | Quem: ADM | Ação: Exclusão | O quê: Doação ID: 7
+2025-06-06 09:05:17 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:06:21 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:06:29 | Quem: ADM | Ação: Exclusão | O quê: Doação ID: 6
+2025-06-06 09:06:56 | Quem: Fran | Ação: Login | O quê: Login realizado
+2025-06-06 09:07:17 | Quem: Fran | Ação: Adição | O quê: Item: Bonecas, ONG: ONG Unidos por Todos
+2025-06-06 09:07:21 | Quem: Fran | Ação: Logout | O quê: Logout realizado
+2025-06-06 09:07:29 | Quem: Fran | Ação: Login | O quê: Login realizado
+2025-06-06 09:12:55 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:13:21 | Quem: adm | Ação: Logout | O quê: Logout realizado
+2025-06-06 09:13:27 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:13:34 | Quem: adm | Ação: Logout | O quê: Logout realizado
+2025-06-06 09:13:38 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 09:46:42 | Quem: Fabiana | Ação: Cadastro | O quê: Usuário criado
+2025-06-06 09:46:50 | Quem: Fabiana | Ação: Login | O quê: Login realizado
+2025-06-06 09:47:13 | Quem: Fabiana | Ação: Adição | O quê: Item: Jogo de cama, ONG: ONG Unidos por Todos
+2025-06-06 09:47:55 | Quem: Fabiana | Ação: Logout | O quê: Logout realizado
+2025-06-06 09:48:00 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 10:03:00 | Quem: adm | Ação: Login | O quê: Login realizado
+2025-06-06 10:03:03 | Quem: adm | Ação: Logout | O quê: Logout realizado

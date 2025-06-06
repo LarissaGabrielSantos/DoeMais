@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 from bd.banco import conectar
+from paginas.relatorio import registrar_log 
 
 def criar_pagina_login(pai, trocar_tela, usuario_logado):
     frame = tk.Frame(pai, bg="#173438")  
@@ -31,6 +32,7 @@ def criar_pagina_login(pai, trocar_tela, usuario_logado):
             cursor.execute("SELECT * FROM usuarios WHERE usuario=? AND senha=?", (usuario, senha))
             if cursor.fetchone():
                 usuario_logado["nome"] = usuario
+                registrar_log(usuario, "Login realizado", "Login")  
                 trocar_tela("principal")
             else:
                 messagebox.showerror("Erro", "Usuário ou senha inválidos")
@@ -66,6 +68,7 @@ def criar_pagina_login(pai, trocar_tela, usuario_logado):
                 try:
                     cursor.execute("INSERT INTO usuarios (usuario, senha) VALUES (?, ?)", (u, s))
                     conn.commit()
+                    registrar_log(u, "Usuário criado", "Cadastro")  
                     messagebox.showinfo("Sucesso", "Usuário cadastrado!")
                     cadastro_win.destroy()
                 except:

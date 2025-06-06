@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from bd.banco import conectar
 from paginas.doacoes import atualizar_tabela_global
+from paginas.relatorio import registrar_log 
 
 def criar_formulario(pai):
     frame = tk.Frame(pai, bg="#466064") 
@@ -51,6 +52,10 @@ def criar_formulario(pai):
                            (*valores, ong_var.get()))
             conn.commit()
 
+            nome_doador = valores[0]
+            item_dado = valores[1]
+            registrar_log(nome_doador, f"Item: {item_dado}, ONG: {ong_var.get()}", "Adição")
+
         atualizar_tabela_global()
         messagebox.showinfo("Sucesso", "Doação registrada.")
         for e in entradas:
@@ -58,8 +63,7 @@ def criar_formulario(pai):
 
     tk.Button(frame, text="Doar", command=doar).pack(pady=10)
 
-    tamanho_fonte_emoji = 35
     label_pombas = tk.Label(frame, text="🕊️🕊️🕊️🕊️", font=("Arial", tamanho_fonte_emoji), bg="#466064") 
     label_pombas.pack(pady=(10, 5))
 
-    return frame 
+    return frame

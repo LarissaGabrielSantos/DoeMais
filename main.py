@@ -10,6 +10,7 @@ root = tk.Tk()
 root.title("Doe+")
 root.geometry("800x600")
 
+
 frame_atual = None
 usuario_logado = {}
 
@@ -21,6 +22,8 @@ def trocar_tela(nome_tela):
         frame_atual = criar_pagina_login(root, trocar_tela, usuario_logado)
     elif nome_tela == "principal":
         frame_atual = criar_pagina_principal(root, usuario_logado)
+
+root.trocar_tela = trocar_tela
 
 trocar_tela("login")
 root.mainloop()
